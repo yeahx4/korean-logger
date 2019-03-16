@@ -1,0 +1,21 @@
+{
+  "name": "korean-logger",
+  "version": "1.0.0",
+  "description": "Korean Logger Modules",
+  "main": "index.js",
+  "repository": "git@github.com:zeonplex/korean-logger.git",
+  "author": "khjkr <khj@kkutu.co>",
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "node.js",
+    "npm-module",
+    "yarn-package",
+    "khjkr",
+    "logger",
+    "korean"
+  ],
+  "dependencies": {
+    "colors": "^1.3.3"
+  }
+}
