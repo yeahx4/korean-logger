@@ -17,8 +17,12 @@ npm install korean-logger
 
 ## Examples
 ```js
-const maker = require('korean-logger')
+const klog = require('korean-logger')
 
-var a = maker(10)
-console.log(a)
+klog.log('text') // Result: [로그] text
+klog.info('text') // Result: [정보] text
+klog.success('text') // Result: [성공] text
+klog.alert('text') // Result: [알림] text
+klog.warn('text') // Result: [경고] text
+klog.error('text') // Result: [에러] text
 ```
