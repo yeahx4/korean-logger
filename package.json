@@ -1,6 +1,6 @@
 {
   "name": "korean-logger",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Korean Logger Modules",
   "main": "index.js",
   "repository": "https://github.com/zeonplex/korean-logger.git",
