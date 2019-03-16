@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "description": "Korean Logger Modules",
   "main": "index.js",
-  "repository": "git@github.com:zeonplex/korean-logger.git",
+  "repository": "https://github.com/zeonplex/korean-logger.git",
   "author": "khjkr <khj@kkutu.co>",
   "license": "MIT",
   "keywords": [
